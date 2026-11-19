@@ -1,0 +1,13 @@
+[project]
+name = "tour"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "langchain>=1.5.2",
+    "langchain-openai>=1.8.3",
+    "langchain-tavily>=0.2.18",
+    "python-dotenv>=1.2.4",
+    "streamlit>=1.67.0",
+]
